@@ -1,5 +1,8 @@
 I’m Mahrosh Atif, a Computer Science student with a strong interest in full-stack development and building purpose driven digital products. I enjoy transforming ideas into functional, user-focused applications through clean design, efficient code, and thoughtful problem-solving.
 Current Project – FurNest
+Current Project - Trendz
+
+Trendz is a fashion discovery app that lets users upload their outfits and receive AI-powered verdicts based on current trends. Designed to be simple, interactive, and style-focused, Trendz helps users understand how their look aligns with what’s trending, making fashion exploration fun, modern, and accessible — one outfit at a time.
 
 FurNest is a pet adoption and rescue platform aimed at streamlining the process of connecting shelters, rescuers, and adopters. The application provides a compassionate digital ecosystem where users can:
 ->Discover and adopt verified pets through intuitive search and filters
