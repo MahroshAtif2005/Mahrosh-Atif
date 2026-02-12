@@ -1,22 +1,63 @@
-I’m Mahrosh Atif, a Computer Science student with a strong interest in full-stack development and building purpose driven digital products. I enjoy transforming ideas into functional, user-focused applications through clean design, efficient code, and thoughtful problem-solving.
-Current Project – FurNest
-Current Project - Trendz
+# Hi, I’m Mahrosh Atif
 
-Trendz is a fashion discovery app that lets users upload their outfits and receive AI-powered verdicts based on current trends. Designed to be simple, interactive, and style-focused, Trendz helps users understand how their look aligns with what’s trending, making fashion exploration fun, modern, and accessible — one outfit at a time.
+Computer Science student passionate about **full stack development, AI driven systems, and startup projects**.
 
-FurNest is a pet adoption and rescue platform aimed at streamlining the process of connecting shelters, rescuers, and adopters. The application provides a compassionate digital ecosystem where users can:
-->Discover and adopt verified pets through intuitive search and filters
-->Connect with shelters and independent rescuers via in-app chat
-->Share updates and stories post-adoption
-->Receive community “Rescue Alerts” for urgent animal help nearby
-->Utilize AI-driven pet matching, which analyzes user preferences, lifestyle, and environment to recommend the most compatible pets
+I enjoy turning ideas into functional, user focused applications through clean design, efficient code, and thoughtful problem solving.
 
-Developed using React Native, Node.js, and Express.js, FurNest prioritizes accessibility, scalability, and real-time interaction, promoting ethical adoption and animal welfare.
+I am currently focused on building **AI driven products** that create real world impact.
 
-Technical Skills:
+---
 
-->Programming Languages: Java, JavaScript, Visual Basic .NET, OCaml,Web Programming, Functional Programming.
-->Frameworks & Libraries: React Native, Node.js, Express.js
-->Database Systems: MongoDB, MySQL
-->Core Competencies: Data Structures & Algorithms, Object-Oriented Programming (OOP), RESTful API Development, Authentication & Security, Cloud Integration
-->Development Focus: Building scalable full-stack applications, improving backend efficiency, and designing responsive, user-focused mobile interfaces
+## Current Interests
+
+- AI driven applications and intelligent systems  
+- Full stack product development  
+- User centered design and clean interfaces  
+- Building startup ideas from concept to product  
+
+---
+
+## Technical Skills
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+---
+
+### Frameworks & Tools
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+Arts, sports, and public speaking shape my creativity, discipline, and communication, influencing how I design human centered products.
+
+---
+
+## Let’s Connect
+
+I’m always open to connecting with people who are building, learning, or exploring ideas in tech and AI.
+
+**LinkedIn:** [https://www.linkedin.com/in/mahrosh-atif/]
+
+---
+## Currently Exploring
+
+I’m currently exploring **agentic AI systems and self improving models**, applying them to real world decision making environments such as sports, fashion, productivity, and intelligent applications through projects like **Trendz** and **FurNest**.
+
