@@ -53,8 +53,8 @@ Arts, sports, and public speaking shape my creativity, discipline, and communica
 ## Let’s Connect
 
 I’m always open to connecting with people who are building, learning, or exploring ideas in tech and AI.
+ [LinkedIn](https://www.linkedin.com/in/mahrosh-atif/)
 
-**LinkedIn:** [https://www.linkedin.com/in/mahrosh-atif/]
 
 ---
 ## Currently Exploring
